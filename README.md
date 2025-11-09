@@ -42,7 +42,8 @@ Developed an interactive and insight-driven dashboard that includes:
 ---
 
 ## 📊 Dashboard Preview
-(<img width="862" height="493" alt="adidas_dashboard png" src="https://github.com/user-attachments/assets/0ae9e326-5fd5-4718-954f-5533dd16a0a2" />)
+(<img width="859" height="490" alt="adidas_dashboard png " src="https://github.com/user-attachments/assets/1346c1cd-a156-46ed-9e75-f0c7c0b343e4" />
+)
 
 ---
 
