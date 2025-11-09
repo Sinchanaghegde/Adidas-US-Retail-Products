@@ -42,7 +42,8 @@ Developed an interactive and insight-driven dashboard that includes:
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](powerbi_dashboard/<img width="1366" height="685" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/5f708270-fc74-488e-a83b-322fecc08b04" />)
+![Dashboard Screenshot](<img width="862" height="493" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/d5a6665d-59b2-4cfe-966c-9c98ce02aa89" />
+)
 ---
 
 ## 📂 Files in this Repository
