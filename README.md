@@ -42,8 +42,8 @@ Developed an interactive and insight-driven dashboard that includes:
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](<img width="862" height="493" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/dfbc226e-7017-43b1-9253-013617c0e882" />
-)
+(<img width="862" height="493" alt="adidas_dashboard png" src="https://github.com/user-attachments/assets/0ae9e326-5fd5-4718-954f-5533dd16a0a2" />)
+
 ---
 
 ## 📂 Files in this Repository
