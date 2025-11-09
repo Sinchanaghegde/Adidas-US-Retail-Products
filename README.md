@@ -42,7 +42,7 @@ Developed an interactive and insight-driven dashboard that includes:
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](<img width="862" height="493" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/d5a6665d-59b2-4cfe-966c-9c98ce02aa89" />
+![Dashboard Screenshot](<img width="862" height="493" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/dfbc226e-7017-43b1-9253-013617c0e882" />
 )
 ---
 
