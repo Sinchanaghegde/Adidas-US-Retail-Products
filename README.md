@@ -42,9 +42,8 @@ Developed an interactive and insight-driven dashboard that includes:
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](<img width="862" height="493" alt="Screenshot (48)(1)" src="https://github.com/user-attachments/assets/3b75534b-cd44-4b9f-a32d-e435999d8c8a" />
-)
-"C:\Users\sinch\OneDrive\Pictures\Screenshots\Screenshot (48).png"
+![Dashboard Screenshot](<img width="862" height="493" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/ddcd2e5c-2e6e-4c08-be6b-3b7336b9e0df" />)
+
 
 ---
 
